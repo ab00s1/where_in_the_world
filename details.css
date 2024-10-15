@@ -113,6 +113,7 @@ header {
 
   .card-text p {
     margin-block: 4px;
+    width: 45vw;
   }
 
   body > main > div > div > div > p:nth-child(5) {
@@ -145,6 +146,7 @@ header {
 
   .card-text p {
     margin-block: 2px;
+    width: 60vw;
   }
 
   body > main > div > div > div > p:nth-child(5) {
